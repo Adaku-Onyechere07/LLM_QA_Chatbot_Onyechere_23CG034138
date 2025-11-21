@@ -1,7 +1,7 @@
 ﻿Name: Onyechere Adaku
 Matric Number: 23CG034138
 
-Live URL: https://llm-qa-osarenkhoe-23cg034140.onrender.com/
+Live URL: https://llm-qa-chatbot-onyechere-23cg034138.onrender.com
 GitHub Repository: https://github.com/Adaku-Onyechere07/LLM_QA_Chatbot_Onyechere_23CG034138
 
 Instructions:
